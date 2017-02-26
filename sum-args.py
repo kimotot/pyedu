@@ -12,4 +12,4 @@ if __name__ == "__main__":
     print(sumArgs(1,2,3))
     print(sumArgs(1,2,3,4,5))
     print(sumArgs(1,2,3,4,5,6,7,8,9,10))
-    print(sumArgs(10.1,20.22,30.3456))
+    print(sumArgs(10.1,20.22,30.345))
