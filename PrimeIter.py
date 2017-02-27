@@ -41,6 +41,6 @@ class PrimeIter:
 # 100以下の素数を列挙する
 if __name__ == "__main__":
     it = PrimeIter(100)
-    print(next(iter(it)))
-#    for n in it:
-#        print(n,end=" ")
+#    print(next(iter(it)))
+    for n in it:
+        print(n,end=" ")
