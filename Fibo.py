@@ -42,7 +42,7 @@ class Fibo:
     def length(self):
         return len(self._fibo_list)
 
-# 100以下の素数を列挙する
+# 100個のフィボナッチ数列を発生させる
 if __name__ == "__main__":
     it = Fibo(100)
 #    print(next(iter(it)))
