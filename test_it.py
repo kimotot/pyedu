@@ -20,4 +20,4 @@ except StopIteration as e:
     print("StopIterationが発生したよ",end=" ")
     print(e)
 finally:
-    print("終わりです")
+    print("finallyに来たよ終わりだよ")
